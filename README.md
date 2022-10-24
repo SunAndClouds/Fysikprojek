@@ -1,4 +1,4 @@
-# Fysikprojek med forskningsanknytning
+# Fysikprojekt med forskningsanknytning
 
 ## En typiskt simulering för 400 partiklar 
 
