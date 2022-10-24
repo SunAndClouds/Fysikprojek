@@ -3,6 +3,10 @@
 ## En typiskt simulering för 400 partiklar 
 ![Particle interactions](https://user-images.githubusercontent.com/80876176/197563306-ac92e79b-72e5-4604-a0cc-e77e7c674892.gif)
 
+
+https://user-images.githubusercontent.com/80876176/197564259-bcb1d88e-5841-4856-b185-c164752090ab.mp4
+
+
 Den externa potentialen uppfyller 
 $$
 \frac{\partial^2V}{\partial x^2} + \frac{\partial^2V}{\partial y^2}= -20
